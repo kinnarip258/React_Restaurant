@@ -4,6 +4,6 @@ import UseState from './Component/Hooks/UseState';
 import UseEffect from './Component/Hooks/useEffect';
 import UseReducer from './Component/Hooks/useReducer';
 const App = () => {
-  return <UseReducer />
+  return <Resturant />
 }
 export default App;
